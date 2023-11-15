@@ -1,0 +1,35 @@
+_repo: A-mediaeval-burglary-b-A-lecture-delivered-at-the-John-Rylands-Library-on-the-20th-January-19__71975
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tout, T. F. (Thomas Frederick)
+    alias: Tout, Thomas Frederick
+    birthdate: 1855
+    deathdate: 1929
+    gutenberg_agent_id: '6862'
+    url: http://www.gutenberg.org/2009/agents/6862
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Frederick_Tout
+description: ''
+gutenberg_issued: '2023-10-28'
+identifiers:
+  gutenberg: '71975'
+language: en
+pgterms:marc904: https://archive.org/details/mediaevalburglar00toutuoft
+pgterms:marc905: 20230817173253tout
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+production_note: David Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aManchester :$bThe University Press, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Westminster Abbey'
+- !lcsh 'Great Britain -- History -- Edward I, 1272-1307'
+- !lcsh 'Richard, of Pudlicott, -1305'
+- !lcc 'DA'
+- GITenberg
+title: 'A mediaeval burglary : $b A lecture delivered at the John Rylands Library
+  on the 20th January, 1915'
+url: http://www.gutenberg.org/ebooks/71975
